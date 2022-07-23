@@ -21,7 +21,7 @@ Frontend Javascript/React developer. I write about my learnings and experience o
 ## :link:	Stay in touch
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/habibullah-mustafazada/" target="_blank">
+  <a href="https://www.linkedin.com/in/habibmustafa/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=100059133556206" target="_blank">
