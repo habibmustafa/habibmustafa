@@ -8,8 +8,8 @@ Frontend Javascript/React developer. I write about my learnings and experience o
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<!--   <img alt="JQuery" src="https://img.shields.io/badge/jquery-%231c2c38.svg?style=for-the-badge&logo=jquery&logoColor=%231064A5"/>
-  <img alt="SASS" src="https://img.shields.io/badge/SASS-%23c26191.svg?style=for-the-badge&logo=sass&logoColor=white"/> -->
+<!--   <img alt="JQuery" src="https://img.shields.io/badge/jquery-%231c2c38.svg?style=for-the-badge&logo=jquery&logoColor=%231064A5"/> -->
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-%23c26191.svg?style=for-the-badge&logo=sass&logoColor=white"/> 
 </div>
 
 ## Technologies
