@@ -1,16 +1,15 @@
 # Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-Frontend (React) developer. I write about my learnings and experience on this blog and focus mainly on React :rocket:
+Frontend (React) developer. I enjoy developing tech websites.. :rocket:
 
 ---
 
-## Languages and Frameworks I use
+<!-- ## Languages and Frameworks I use
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-<!--   <img alt="JQuery" src="https://img.shields.io/badge/jquery-%231c2c38.svg?style=for-the-badge&logo=jquery&logoColor=%231064A5"/> -->
   <img alt="SASS" src="https://img.shields.io/badge/SASS-%23c26191.svg?style=for-the-badge&logo=sass&logoColor=white"/> 
-</div>
+</div> -->
 
 ## Technologies
 <div align="center">
